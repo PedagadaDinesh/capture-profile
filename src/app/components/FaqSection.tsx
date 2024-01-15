@@ -73,11 +73,11 @@ const Faq = styled(About)`
     width: 100%;
   }
   .question {
-    padding: 3rem 0rem;
+    padding: 2rem 0rem;
     cursor: pointer;
   }
   .answer {
-    padding: 2rem 0rem;
+    padding: 0.5rem 0rem;
     p {
       padding: 1rem 0rem;
     }
